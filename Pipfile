@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+pyspark = "*"
+textblob = "*"
+nltk = "*"
+pandas = "*"
+numpy = "*"
+findspark = "*"
 
 [dev-packages]
 
